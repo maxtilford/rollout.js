@@ -1,0 +1,14 @@
+{
+  "author": "maxtilford@gmail.com",
+  "name": "rollout.js",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxtilford/rollout.js.git"
+  },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {},
+  "devDependencies": { "jasmine-node": ">=1.0.6"}
+}
